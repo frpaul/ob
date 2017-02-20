@@ -11,3 +11,4 @@ b_Teleological_argument.md
 b_Ontological_argument.md
 b_Moral_argument.md
 b_russel_tea_pot.md
+b_revelation.md
