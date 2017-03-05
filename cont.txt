@@ -1,3 +1,5 @@
+title.md
+toc.md
 b_intro.md
 b_religion_definition.md
 b_origins_religion.md
