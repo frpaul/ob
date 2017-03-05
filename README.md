@@ -7,3 +7,7 @@
 "Философия религии. Разговор о вере".
 
 Ведется работа над добавлением учебных диалогов.
+
+Книжка собирается следующей командой:
+
+pandoc --latex-engine=xelatex --variable mainfont="DejaVu Sans" -H preamble.tex $(cat cont.txt) -o tmp.pdf -S -N
