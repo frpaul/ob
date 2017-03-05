@@ -207,4 +207,4 @@
 [^3]: R. Robertson Smith, Lectures on the Religion of the Semites (1898)
 [^4]: B. Spilka, R.W. Hood and R.L. Gorsuch The Psychology of Religion: An Empirical Approach (Englewood Cliffs, NJ: Prentice-Hall, 1985).
 
-
+\newpage
