@@ -171,13 +171,15 @@
 
 [^5]: Подробнее см. Plantinga, Alvin; Sennett, James (1998) The analytic theist: an Alinv Plantinga reader. Wm.B.Eerdamns Publishing.
 
+<!--
 ## Св. Василий Великий о проблеме зла 
 
-<!-- TODO: перенести сюда материалы из соотв. раздела лекций -->
+ TODO: перенести сюда материалы из соотв. раздела лекций 
 
 См. работу св. Василия "О том, что Бог не виновник зла".
 
 ![](image/vasiliy_evil.jpg)
 
+-->
 
 \newpage
