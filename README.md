@@ -11,3 +11,7 @@
 Книжка собирается следующей командой:
 
 pandoc --latex-engine=xelatex --variable mainfont="DejaVu Sans" -H preamble.tex $(cat cont.txt) -o tmp.pdf -S -N
+
+## опции для библиографии
+
+... --filter pandoc-citeproc --bibliography references.bib salvation.md -o salv.pdf
