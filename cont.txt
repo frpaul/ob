@@ -16,3 +16,5 @@ b_russel_tea_pot.md
 b_revelation.md
 b_Cleansing_fire.md
 b_St_Mark_against_cl_f.md
+b_Apocatastasis.md
+b_bib.md
