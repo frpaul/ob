@@ -185,7 +185,7 @@
 
 [^22]: Т.н. "примирение агностиков" (agnostic conciliation).
 
-[^23]: Часть контраргументов позаимствована нами из статьи Brian Garvey, Absence of evidenceAbsence of evidence, evidence of absence and the atheist's teapot, http://www.tandfonline.com/loi/rjpt17
+[^23]: Часть контраргументов позаимствована нами из статьи @Garv
 
 [^24]: Не исключено, что даже такой эксперимент, как разрушение вселенной не привел бы к состоянию t⁰
 

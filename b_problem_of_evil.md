@@ -169,7 +169,7 @@
 
 Существование зла может считаться испытанием веры человека в Бога.
 
-[^5]: Подробнее см. Plantinga, Alvin; Sennett, James (1998) The analytic theist: an Alinv Plantinga reader. Wm.B.Eerdamns Publishing.
+[^5]: Подробнее см. @PlantAT
 
 <!--
 ## Св. Василий Великий о проблеме зла 
