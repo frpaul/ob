@@ -10,8 +10,15 @@
 
 Книжка собирается следующей командой:
 
-pandoc --latex-engine=xelatex --variable mainfont="DejaVu Sans" -H preamble.tex $(cat cont.txt) -o tmp.pdf -S -N
+pandoc --latex-engine=xelatex --variable mainfont="DejaVu Sans"  --filter pandoc-citeproc --bibliography ../references.bib --csl ../csl/gost.csl -H ../preamble.tex $(cat ../cont.txt) -S -N -o 
 
 ## опции для библиографии
 
-... --filter pandoc-citeproc --bibliography references.bib salvation.md -o salv.pdf
+... --filter pandoc-citeproc --bibliography references.bib file.md -o file.pdf
+
+## скрипт для чистки лишних md файлов:
+
+Создаем временную ветку prerelease, переходим, в директории input выполняем:
+
+ls -1 | sort ../cont.txt ../cont.txt - | uniq -u | xargs rm
+
