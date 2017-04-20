@@ -139,7 +139,7 @@
 [^amb1]: PL 17,200
 [^grig1]: "Dialog." l. 14, c. 39; Ml 77, 396, A-C
 [^grig2]: Id. c. 55; Ml 77, 420 s.
-[^isa1]: Отметим существующую проблему атрибуции толкования на книгу прор. Исаии: издатели-бенедиктинцы (Migne, PG) поместили это толкование в приложение к первому тому трудов св. Василия как Spuria (сомнительное авторство): Four of the homilies on the psalms... as well as the Commentary on Isaia, are placed by the Benedictine editors in the Appendix of Volume 1 of St. Basil's works, Patrologia Graeca, Vol. 30, as doubtful or clearly spurious works of St. Basil. Saint Basil Exegetic Homilies. Translated by sister Agnes Clare Way, C.D.P.// The fathers of the Church. A new translation. The Catholic University of America Press. Washington 17, D.C., 1963. p. vii. Сомнения в правильности атрибутирования высказал и Rudberg 1981 P. 51.
+[^isa1]: Отметим существующую проблему атрибуции толкования на книгу прор. Исаии: издатели-бенедиктинцы (Migne, PG) поместили это толкование в приложение к первому тому трудов св. Василия как Dubia (сомнительное авторство): Four of the homilies on the psalms... as well as the Commentary on Isaia, are placed by the Benedictine editors in the Appendix of Volume 1 of St. Basil's works, Patrologia Graeca, Vol. 30, as doubtful or clearly spurious works of St. Basil. Saint Basil Exegetic Homilies. Translated by sister Agnes Clare Way, C.D.P.// The fathers of the Church. A new translation. The Catholic University of America Press. Washington 17, D.C., 1963. p. vii. Сомнения в правильности атрибутирования высказал и Rudberg 1981 P. 51.
 [^nf03]: Троскот (греч. ἄγρωστις) -- кормовая трава.
 
 \newpage
