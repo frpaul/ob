@@ -358,4 +358,6 @@ worthily of Him That chastises.
 
 ---------------
 
+По поводу толк Св. Василия на прор. Исаию:
 
+: Four of the homilies on the psalms... as well as the Commentary on Isaia, are placed by the Benedictine editors in the Appendix of Volume 1 of St. Basil's works, Patrologia Graeca, Vol. 30, as doubtful or clearly spurious works of St. Basil. Saint Basil Exegetic Homilies. Translated by sister Agnes Clare Way, C.D.P.// The fathers of the Church. A new translation. The Catholic University of America Press. Washington 17, D.C., 1963. p. vii. Сомнения в правильности атрибутирования высказал и Rudberg 1981 P. 51. 
