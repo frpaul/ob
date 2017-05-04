@@ -644,6 +644,7 @@ When we depart from the world and this life of ours has been transformed, some b
 
 ----------
 
+
 ### Высказывания в пользу воздушных препятствий, не вызывающие вопросов о подлинности:
 
 
