@@ -361,3 +361,25 @@ worthily of Him That chastises.
 По поводу толк Св. Василия на прор. Исаию:
 
 : Four of the homilies on the psalms... as well as the Commentary on Isaia, are placed by the Benedictine editors in the Appendix of Volume 1 of St. Basil's works, Patrologia Graeca, Vol. 30, as doubtful or clearly spurious works of St. Basil. Saint Basil Exegetic Homilies. Translated by sister Agnes Clare Way, C.D.P.// The fathers of the Church. A new translation. The Catholic University of America Press. Washington 17, D.C., 1963. p. vii. Сомнения в правильности атрибутирования высказал и Rudberg 1981 P. 51. 
+
+--------------
+
+о. Михаил Азкул (Michael Azkoul), return of the tollhouses: http://web.archive.org/web/20091204012018/http://www.new-ostrog.org/return_tollhouses.html
+
+Очень серьезное наступление на русское православие. Обвинение в богомильстве (и вообще в гностическом влиянии) -- ранний славянский перевод жития св. Василия Нового, затем распространение в Макарьевских четьих, затем "ренессанс" 19 века с возможным теософским влиянием
+(In any case, the "tollhouse" theory had a major revival in 19th century Russia, probably under the impetus of German theosophy.)
+
+<!-- не нашел этого куска: "I know of other tax-collectors who after our departure from this present life inspect us and hold us to see if we have something that belongs to them." For this idea of "taxation," Origen abuses the words of St John the Theologian (Jn. 14:30), "...for the ruler of this world is coming, but he has no power over me. I wonder how much we must suffer at the hands of those evil angels, who examine everything and who, when someone is found unrepentant, demand not only the payment of taxes, but also seize and hold us completely captive" (Comm. on Luke, Homily 23). -->
+
+Ориген -- один из авторов учения о мытарствах, как заявляет о М. Азкул
+
+When we depart from the world and this life of ours has been transformed, some beings will be seated at the boundary of the world, as if they were exercising the office of tax collectors, very carefully searching to find something in us that is theirs (Cf. Clement of Alexandria, Stromata 4.18.117.2
+Цит по: Origen. Homilies on Luke. Translated by Joseph T. Lienhard, S.J. The Catholic University of America Press. Washington, D.C. 1996, hom 23 p.99
+
+------
+
+<!-- Lampe: λογοθέσιον, τό ... ref. devils: τῶν ἐχθρῶν ... τῶν λογοθέσιον ἡμῖν ἐν τῷ ἀέρι κινούντων (Jo. D. B.J.13 (M 96.981A) (Житие Варлаама и Иоасафа)
+
+ἐτάσις = trial, examination
+
+

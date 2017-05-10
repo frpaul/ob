@@ -64,5 +64,14 @@
 
 ![](../image/pills01.png){width=20 height=20}      Логическая "вилка". ("Слишком сильное лекарство")
 
+---------
+
+Постоянный адрес книги в Интернете: 
+
+https://github.com/frpaul/ob/raw/master/latest_version.pdf
+
+Отзывы и пожелания просьба присылать на адрес:
+
+dramoumen@gmail.com
 
 \newpage
