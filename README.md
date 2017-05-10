@@ -14,11 +14,6 @@ pandoc --latex-engine=xelatex --variable mainfont="DejaVu Sans"  --filter pandoc
 
 ## опции для библиографии
 
-... --filter pandoc-citeproc --bibliography references.bib file.md -o file.pdf
+... --filter pandoc-citeproc --bibliography ../references.bib file.md -o file.pdf
 
-## скрипт для чистки лишних md файлов:
-
-Создаем временную ветку prerelease, переходим, в директории input выполняем:
-
-ls -1 | sort ../cont.txt ../cont.txt - | uniq -u | xargs rm
 
