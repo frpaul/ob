@@ -17,10 +17,10 @@ b_russel_tea_pot.md
 b_revelation.md
 b_part2.md
 b_Cleansing_fire.md
-b_St_Mark_against_cl_f.md
 b_Apocatastasis.md
 b_mytarstva.md
 b_part3.md
+b_Sources_clean_f.md
 b_Fathers_and_A.md
 b_sources_myt.md
 b_terminology.md
