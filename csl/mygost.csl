@@ -248,28 +248,6 @@
       </else>
     </choose>
   </macro>
-   <macro name="access">
-    <choose>
-      <if variable="URL">
-        <group delimiter=". ">
-          <group delimiter=": ">
-            <text term="available at" text-case="capitalize-first"/>
-            <text variable="URL"/>
-          </group>
-          <group prefix="[" suffix="]" delimiter=": ">
-            <text term="accessed" text-case="capitalize-first"/>
-            <date variable="accessed">
-              <date-part name="day" form="numeric-leading-zeros" suffix="-"/>
-              <date-part name="month" form="short" suffix="-" strip-periods="true"/>
-              <date-part name="year" form="long"/>
-            </date>
-          </group>
-        </group>
-      </if>
-    </choose>
-  </macro>
-
-
   <macro name="pages">
     <choose>
       <if variable="locator">
@@ -290,8 +268,26 @@
       <text variable="archive-place"/>
     </group>
   </macro>
-
-
+  <macro name="access-note">
+    <choose>
+      <if variable="URL">
+        <group delimiter=". ">
+          <group delimiter=": ">
+            <text term="available at" text-case="capitalize-first"/>
+            <text variable="URL"/>
+          </group>
+          <group prefix="[" suffix="]" delimiter=": ">
+            <text term="accessed" text-case="capitalize-first"/>
+            <date variable="accessed">
+              <date-part name="day" form="numeric-leading-zeros" suffix="-"/>
+              <date-part name="month" form="short" suffix="-" strip-periods="true"/>
+              <date-part name="year" form="long"/>
+            </date>
+          </group>
+        </group>
+      </if>
+    </choose>
+</macro>
 
  <citation>
     <option name="et-al-min" value="4"/>
@@ -349,11 +345,7 @@
 	  <text macro="locators-specific-note" prefix=", "/>
 	  <text macro="locators-newspaper" prefix=", "/>
 	  <text macro="point-locators"/>
-      <choose>
-	<if type="webpage">
 	  <text macro="access-note"/>
-	</if>
-      </choose>
 	</group>
 	</else>
       </choose>
@@ -387,11 +379,7 @@
 	  <text macro="locators-specific-note" prefix=", "/>
 	  <text macro="locators-newspaper" prefix=", "/>
 	  <text macro="point-locators"/>
-      <choose>
-	<if type="webpage">
 	  <text macro="access-note"/>
-	</if>
-      </choose>
 	</group>
     </layout>
   </bibliography>
