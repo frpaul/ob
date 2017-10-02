@@ -12,6 +12,7 @@
 
 >"Совесть являет нам моральный закон, источник которого не может быть найден в природе (естественном мире), таким образум указывая на сверхприродного Законодателя" (К.С. Льюис)
 
+<!-- Цитату!-->
 <!--- C.S. Lewis - "conscience reveals to us a moral law whose source cannot be found in the natural world, thus pointing to a supernatural Lawgiver." --->
 
 Вероятностная форма 
