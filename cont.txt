@@ -3,6 +3,7 @@ toc.md
 intro.md
 part1.md
 religion_definition.md
+myth.md
 origins_religion.md
 about_God.md
 problem_of_evil.md
