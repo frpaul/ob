@@ -12,6 +12,10 @@
 
 pandoc --latex-engine=xelatex --variable mainfont="DejaVu Sans"  --filter pandoc-citeproc --bibliography ../references.bib --csl ../csl/mygost.csl -H ../preamble.tex $(cat ../cont.txt) -S -N -o -o file_name.pdf
 
+Мобильная версия:
+
+'pandoc --latex-engine=xelatex --variable mainfont="DejaVu Sans"  --filter pandoc-citeproc --bibliography ../references.bib --csl ../csl/mygost.csl -H ../preamble_m.tex $(cat ../cont.txt) -S -N -o '
+
 ## скрипт для чистки лишних md файлов:
 
 Создаем временную ветку prerelease, переходим, в директории input выполняем:
