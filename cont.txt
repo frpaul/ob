@@ -24,5 +24,6 @@ part3.md
 Sources_clean_f.md
 Fathers_and_A.md
 sources_myt.md
+part4.md
 terminology.md
 bib.md

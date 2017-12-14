@@ -1,0 +1,203 @@
+/*  XML blockout */
+p {
+    margin-top: 0.75em;
+    text-align: justify;
+    margin-bottom: 0.75em
+    }
+h1, h2, h3 {
+    text-align: center;
+    /* all headings centered */
+    clear: both
+    }
+table {
+    margin-left: auto;
+    margin-right: auto
+    }
+body {
+    margin-left: 10%;
+    margin-right: 10%
+    }
+.pagenum {
+    /* uncomment the next line for invisible page numbers */
+    /*  visibility: hidden;  */
+    position: absolute;
+    left: 92%;
+    font-size: smaller;
+    text-align: right;
+    font-style: normal
+    }
+/* page numbers */
+.blockquot {
+    margin-left: 5%;
+    margin-right: 10%;
+    font-size: smaller
+    }
+.center {
+    text-align: center
+    }
+.centersp {
+    text-align: center;
+    margin-top: 4em
+    }
+.dedication {
+    text-align: center;
+    margin-top: 2em;
+    font-size: larger
+    }
+.smcap {
+    font-variant: small-caps
+    }
+.content {
+    text-indent: -3em;
+    padding-left: 3em;
+    text-align: left
+    }
+.contdtl {
+    text-align: left;
+    font-size: smaller
+    }
+.caption {
+    font-weight: bold
+    }
+.figcenter {
+    margin: auto;
+    text-align: center
+    }
+.figleft {
+    float: left;
+    clear: left;
+    margin-left: 0;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    margin-right: 1em;
+    padding: 0;
+    text-align: center
+    }
+.figright {
+    float: right;
+    clear: right;
+    margin-left: 1em;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    margin-right: 0;
+    padding: 0;
+    text-align: center
+    }
+.footnotes {
+    border: dashed 1px
+    }
+.footnote {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 0.9em
+    }
+.footnote .label {
+    position: absolute;
+    right: 84%;
+    text-align: right
+    }
+.fnanchor {
+    vertical-align: super;
+    font-size: 0.8em;
+    text-decoration: none
+    }
+.poem {
+    margin-left: 50%;
+    margin-right: 50%;
+    text-align: left
+    }
+.poem br {
+    display: none
+    }
+.poem .stanza {
+    margin: 1em 0 1em 0
+    }
+.poem span.i0 {
+    display: block;
+    margin-left: -6em;
+    margin-right: -15em;
+    padding-left: 3em;
+    text-indent: -3em
+    }
+.poem span.i2 {
+    display: block;
+    margin-left: -4em;
+    margin-right: -15em;
+    padding-left: 3em;
+    text-indent: -3em
+    }
+.poem span.i4 {
+    display: block;
+    margin-left: -2em;
+    margin-right: -15em;
+    padding-left: 3em;
+    text-indent: -3em
+    }
+.poem span.i0a {
+    display: block;
+    margin-left: -10em;
+    margin-right: -15em;
+    padding-left: 3em;
+    text-indent: -3em
+    }
+.poem span.i2a {
+    display: block;
+    margin-left: -8em;
+    margin-right: -15em;
+    padding-left: 3em;
+    text-indent: -3em
+    }
+li {
+    font-size: smaller;
+    padding-bottom: 1em
+    }
+.lsoff {
+    list-style-type: none
+    }
+li p {
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 0.9em;
+    /* a bit closer than p's */
+    }
+.indletter {
+    margin-left: 2em;
+    padding-left: 3em;
+    text-indent: -3em;
+    margin-top: 3em;
+    margin-bottom: 0
+    }
+.indhead {
+    margin-left: 2em;
+    padding-left: 3em;
+    text-indent: -3em;
+    margin-top: 1.5em;
+    margin-bottom: 0
+    }
+.inddetail {
+    margin-left: 3em;
+    padding-left: 3em;
+    text-indent: -3em;
+    margin-top: 0;
+    margin-bottom: 0
+    }
+.works {
+    padding-left: 3em;
+    text-indent: -3em
+    }
+hr.full {
+    width: 100%;
+    margin-top: 3em;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    height: 4px;
+    border-width: 4px 0 0 0;
+    /* remove all borders except the top one */
+    border-style: solid;
+    border-color: #000;
+    clear: both
+    }
+pre {
+    font-size: 85%
+    }
