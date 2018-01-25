@@ -59,9 +59,9 @@
 
 **Пиктограммы, встречающиеся в тексте:**
 
-![](../image/a_letter02.png){width=20 height=20}   Критика христианства атеистами и агностиками
+![](../image/a_letter03.png){width=20 height=20}   Критика
                                               
-![](../image/cross04.png){width=20 height=20}      Апология христианства
+![](../image/cross05.png){width=20 height=20}      Защита
 
 ![](../image/exclame01_50.png){width=20 height=20} Важный материал. Запомни!
 
