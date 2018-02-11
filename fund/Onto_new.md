@@ -1,0 +1,1 @@
+Недавно некоторые [философы] заявили, что онтологический аргумент - не "доказательство", он просто выражает (имплицитное) знание о Боге, которым мы уже обладаем" (see W.Abraham, "Systematic Theology as Analytic Theology' in O.D. Crisp and M.C. Rea (eds.), Analytic Theology: New Essays in the Philosophy of Theology
