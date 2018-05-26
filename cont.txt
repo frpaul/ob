@@ -16,6 +16,7 @@ Ontological_argument.md
 Moral_argument.md
 russel_tea_pot.md
 revelation.md
+miracles.md
 part2.md
 Cleansing_fire.md
 Apocatastasis.md
