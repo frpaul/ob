@@ -10,15 +10,13 @@
 
 ## Книжка собирается следующей командой:
 
-pandoc --latex-engine=xelatex --variable mainfont="DejaVu Sans"  --filter pandoc-citeproc --bibliography ../references.bib --csl ../csl/mygost.csl -H ../preamble.tex $(cat ../cont.txt) -S -N -o -o file_name.pdf
+pandoc --latex-engine=xelatex --variable mainfont="DejaVu Sans"  --filter pandoc-citeproc --bibliography ../references.bib --csl ../csl/mygost.csl -H ../preamble.tex $(cat ../cont.txt) -S -N -o file_name.pdf
 
 Мобильная версия:
 
-<<<<<<< HEAD
 ... --filter pandoc-citeproc --bibliography ../references.bib file.md -o file.pdf
 =======
 'pandoc --latex-engine=xelatex --variable mainfont="DejaVu Sans"  --filter pandoc-citeproc --bibliography ../references.bib --csl ../csl/mygost.csl -H ../preamble_m.tex $(cat ../cont.txt) -S -N -o '
->>>>>>> release
 
 
 
