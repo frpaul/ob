@@ -3,4 +3,5 @@ toc.md
 intro.md
 bible_and_philosophy.md
 Gods_character.md
+epistemology.md
 Theological_language.md
