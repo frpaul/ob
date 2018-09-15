@@ -1,0 +1,13 @@
+
+] Deprecated: --latexmathml, --asciimathml, -m
+[WARNING] Note with key '4t0106' defined at line 1518 column 1 but not used.
+[WARNING] Note with key 'a2' defined at line 3396 column 1 but not used.
+[WARNING] Note with key 'a9' defined at line 3406 column 1 but not used.
+[WARNING] Note with key 'comm1' defined at line 4033 column 1 but not used.
+[WARNING] Note with key 'ell1' defined at line 4034 column 1 but not used.
+[WARNING] Note with key 'm12' defined at line 3886 column 1 but not used.
+[WARNING] Note with key 'm14' defined at line 3887 column 1 but not used.
+[WARNING] Note with key 'myt21' defined at line 4289 column 1 but not used.
+[WARNING] Note with key 'note111' defined at line 1717 column 1 but not used.
+[WARNING] Note with key 'ont1' defined at line 1716 column 1 but not used.
+[WARNING] Duplicate note reference 'nt1001' at line 1996 column 1
