@@ -4,11 +4,11 @@
         \vspace*{4cm}
         
         
-       \large{ \textbf{ \uppercase{ЗАВТРАК ТЕИСТА.}}}
+       \large{ \textbf{ \uppercase{Основное богословие.}}}
 
         \vspace{1.0cm}
 
-        \textit{(Материалы для учебника по Основному богословию)}       
+        \textit{Курс лекций}       
          
 
         \vspace{3.0cm}
