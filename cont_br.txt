@@ -7,3 +7,4 @@ epistemology.md
 Theological_language.md
 Revelation_n.md
 nz_historicity.md
+morals_shmorals.md
