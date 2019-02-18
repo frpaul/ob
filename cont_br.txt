@@ -6,5 +6,6 @@ Gods_character.md
 epistemology.md
 Theological_language.md
 Revelation_n.md
+miracles_br.md
 nz_historicity.md
 morals_shmorals.md
