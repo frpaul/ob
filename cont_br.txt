@@ -8,4 +8,5 @@ Theological_language.md
 Revelation_n.md
 miracles_br.md
 nz_historicity.md
+about_God.md
 morals_shmorals.md
