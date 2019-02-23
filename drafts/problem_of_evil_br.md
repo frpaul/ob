@@ -1,6 +1,8 @@
 ## Проблема зла.
 
-Существование несправедливости, страданий и смерти всегда служило для людей поводом усомниться в существовании благого, всемогущего Бога. Одних мыслителей наблюдаемое в мире обилие зла приводило к пантеизму (божество, не имеющее личности, безразлично к существованию "зла", которое является просто частью реальности, негативно воспринимаемой человеком), других --- к дуализму (существование достаточно могущественного "злого Бога" может объяснить существование зла в мире). Атеисты видят в существовании зла (и особенно, в его количестве) прямое подтверждение случайности всего происходящего, отсутствие высших сил, управляющих миром. Существование зла по их мысли противоречит теистической концепции Бога, Благого и Всемогущего существа.
+Существование несправедливости, страданий и смерти всегда служило для людей поводом усомниться в существовании благого, всемогущего Бога. Одних мыслителей наблюдаемое в мире обилие зла приводило к пантеизму. Пантеистическое божество, не имеющее личности, --- безразлично к существованию "зла". Зло же является просто частью реальности, негативно воспринимаемой человеком, но на самом деле --- нейтральной. Другие объясняли существование зла существованием достаточно могущественного "злого Бога" (дуализм, политеизм). 
+
+Атеисты же видят в существовании зла (и особенно, в его количестве) прямое подтверждение случайности всего происходящего, отсутствие высших сил, управляющих миром. По мысли атеистов зло --- неотъемемая часть реальности, и его существование опровергает теистическую концепцию Благого и Всемогущего Существа, Бога.
 
 ![](../image/a_letter03.png){width=20 height=20} "Доказательства небытия Бога":
 
@@ -19,7 +21,9 @@
 * Создать мир, в котором существуют свободные агенты и нет зла --- невозможно (даже для Бога), поскольку такой мир противоречит логике.<!--Таким образом, уточняя положение о всемогуществе (Бог может сделать все, что не противоречит логике, разуму).-->
 * Существует понимание зла, которое ослабляет остроту аргументов: источником зла является не Бог, а свободные решения людей и ангелов. 
 
-Подробности:
+Сам факт необходимости для человека объяснения существования зла говорит о том, что оно противоестественно. Если бы зло было неотъемлемой частью реальности, как об этом говорят, например, сторонники теории эволюции, то человек не испытывал бы никаких диссонансов в связи с существованием страданий, лишений, смерти.
+
+Рассмотрим эти возражения подробнее.
 
 <!--* Что именно понимается под злом (5)? Согласно православной традиции, собственно злом можно назвать только грех. Остальные случаи "физического зла" можно рассматривать в контексте Промысла о спасении человечества.
 * Нельзя говорить о зле, как факторе онтологически сопоставимом с благостью Бога. Зло происходит от неверно осуществленной свободной воли тварных созданий, оно несоизмеримо с Благом.
@@ -27,7 +31,7 @@
 
 ### Что мы понимаем под злом?
     
-Христианская традиция видит причину возникновения зла в уклонении свободной воли ангелов и человека от Бога, как Источника добра и жизни. Зло --- недостаток добра, точно также, как тьма --- недостаток света. Зло не обладает собственной природой, но паразитирует на человеческой.
+Христианская традиция видит причину возникновения зла в уклонении свободной воли ангелов и людей от Бога, как Источника добра и жизни. Зло --- недостаток добра, точно также, как тьма --- недостаток света. Зло не обладает собственной природой, но паразитирует на человеческой.
 
 По учению св. Василия Кесарийского необходимо различать "зло по сущности" (φύσει κακὸν), то есть грех, и зло "в ощущении" (πρὸς τὴν αἴσθησιν)[^pe001]. Второе (смерть, болезни, лишения и подоб.) --- следствие первого (отпадения от божественной благодати). Таким образом "зло в ощущении" имеет источником не Бога, но согрешившего человека.
 
@@ -144,6 +148,15 @@
 
 Так почему зло противоречит благости Бога? С точки зрения человека боль, смерть, лишения очень значимы, но являются ли они онтологическим фактом, который сопоставим, соизмерим с божественной благостью, с Источником добра, жизни, света? Не получается ли, что мы пытаемся сравнить Солнце с облаком, которое закрывает на время от нас его сияние? Гумманистическая фиксация на человеке с его переживаниями заставляет нас забыть о христианской перспективе, сосредоточенной на Боге. В нем все обретает смысл, даже страдания и смерть. Возможно, даже Ад. Однажды все облака рассеются и наступит бесконечный день.
 
+Дополнительное осложнение: грубое представление о вмешательстве Бога в процессы, происходящие в мире. Это видно в христианской письменности "золотого века", когда считалось, что Бог управляет миром практически "вручную". Со временем развитие науки приводит богословов к мысли, что, по-видимому, Бог предпочитает постоянным вмешательством в обычное течение дел, природные процессы, которые Он сам и создал. В начале это привело к грубому механистическому представлению о Вселенной и к деизму. Бог настроил "часовой механизм" природы и больше не вмешивается в его действие. Вслед за этим мысль многих мыслителей исключила из этой картины "часовщика", как излишнюю. Но со временем пришло понимание того, что наше понимание природы не эквивалентно самой природе. Человеческие модели и теории в принципе не могут полностью описывать реальность.
+
+В связи с проблемой зла это может означать, что Бог точно так же воздерживается от грубого вмешательства в ход человеческой истории. Например, Всемирный потоп (в данном случае неважно, какие масштабы он имел на самом деле) не был результатом непосредственных действий Бога, а стал следствием определенных природных процессов. 
+
+Итак, существуют две крайние точки зрения: первоначальные представления человечества о "ручном управлении" и противоположность --- "теология процесса". Атеистическое "доказательство небытия Бога" по-видимому выбирает первую крайность. Для формулирования теодицеи вовсе не обязательно впадать в противоположную крайность. Вполне достаточно придерживаться середины: Бог, скорее всего, не контролирует непосредственно каждое конкретное событие, особенно в том, что касается физической природы мира. Однако, в том, что касается человека и принимаемых им решений, Бог проявляет высокую активность, однако и в этой сфере существуют определенные процессы и закономерности. Нарушения принципа естественности: чрезмерное употребление алкоголя приводит к циррозу печени. Является ли болезнь алкоголика наказанием от Бога? В определенном смысле --- да. В том же смысле человек, перебегающий в неположенном месте проспект с оживленным траффиком может расстаться с жизнью. Можно ли это назвать наказанием за нарушение правил дорожного движения?
+
+
+
+
 <!--прп. Иоанн Дамаскин: "*Первое Его хотение называется предваряющей волею и благоизволением и зависит только от Него. Второе же хотение называется последующей волею и попущением и имеет свою причину в нас. При этом попущение, как мы выше сказали, бывает двух видов: попущение спасительное и вразумляющее и попущение, означающее отвержение человека Богом и ведущее к полному наказанию.*" [@DamasToch, С. ?]-->
 
 
@@ -153,34 +166,4 @@
 [^pe004]: "Итак, соблазны не являются Его предопределением. Да не будет. Ведь не потому это бывает, что Он предсказал (это), но потому предсказал (как знающий все), что это должно было случиться непременно", Catenae Graecorum Patrum in Novum Testamentum, ed. J.A. Cramer, S.T.R., Oxoniae, Typographeo Academico, 1840, t. 1, 144.30, см. также: св. Иоанн Златоуст. Гомилии на Евангелие от Матфея, 59.1, TLG 2060.152, 58.573.30-46 <!--, @BibComMat, С.87-88.-->
 
 
--------------
-
-"Невозможно не приити соблазнам" (Лк. 17:1)
-От Матфея 13:41
-От Матфея 18:7
-
-Chrys., Hom., lix: This does not subvert the liberty of the will, or impose a necessity of any act, but foreshews what must come to pass. Offences are hindrances in the right way. But Christ’s prophecy does not bring in the offences, for it is not done because He foretold it, but He foretold it because it was certainly to come to pass. 
-
-But some one will say, If all men are recovered, and if there be none to bring the offences, will not His speech be convicted of falsehood? By no means; for seeing that men were incurable, He therefore said, "It must needs be that offences come;" that is, they surely will come; which He never would have said, if all men might be amended.Gloss. interlin.: Or they must needs come because they are necessary, that is, useful, that by this mean "they that are approved may be made manifest." [1Co 11:11] 
-
-*Origen:* Or; The scandals that are to come are the Angels of Satan. But do not look that these offences should shew themselves in a substantial or natural shape, for in some the freedom of the will has been the origin of offence, not liking to undergo toil for virtue’s sake. But there cannot be real good, without the opposition of evil. It must needs be then that offences come, as it must needs be that we encounter the evil assaults of spiritual powers; whose hatred is the more stirred up, as Christ’s word invading men drives out the evil influences from them. And they seek instruments by whom the offences may the rather work; and to such instruments is more woe; for him who gives, it shall be worse than for him who takes, the offence, as it follows, "But woe unto that man by whom the offence cometh."  (On Mt 13.22?)
-
-Jerome: As much as to say, Woe to that man through whose fault it comes to pass, that offences must needs be in the world. And under this general declaration, Judas is particularly condemned, who had made ready his soul for the act of betrayal. 
-
-Hilary: Or; By the man is denoted the Jewish people, as the introducers of all this offence that is about Christ’s passion; for they brought upon the world all the danger of denying Christ in His passion, of whom the Law and the Prophets had preached that He should suffer. 
-
-Chrysostom: But that you may learn that there is no absolute necessity for offences, hear what follows, "If thy hand or thy foot offend thee, etc." This is not said of the limbs of the body, but of friends whom we esteem as limbs necessary to us; for nothing is so hurtful as evil communications. 
-
-Rabanus: Scandal (offence) is a Greek word, which we may call a stumbling-block, or a fall, or hitting of the foot. He then scandalizes his brother, who by word or deed amiss gives him occasion of falling. 
-
-Origen: Or, The priests may with good reason be called the eyes of the Church, since they are considered her watchmen; but the deacons and the rest her hands, for by them spiritual deeds are wrought; the people are the feet of the body, the Church; and all these it behoves not to spare, if they become an offence to the Church. Or, by the offending hand is understood an act of the mind; a motion of the mind is the offending foot, and a vision of the mind is the sinning eye, which we ought to cut off if they give offence, for thus the acts of the limbs are often put in Scripture for the limbs themselves. 
-
-------
-Cyrill of Alexandria, Syr, SERMONS CXIII-CXVI. (fragments)
-Such, He says, must needs come. Is this then because God, Who governs all, obliges men to their commission? Away with the thought: for from Him comes nothing that is evil, yes! rather He is the fountain of all virtue. Why then must they happen? Plainly because of our infirmity: "for in many things we all of us stumble," as it is written.
-
-
-Итак, соблазны не являются Его предопределением. Да не будет. Ведь не потому это бывает, что Он предсказал (это), но потому предсказал (как знающий все), что это должно было случиться непременно.
-
-Οὐ τοίνυν ἡ πρὀρρησις αὐτοῦ τὰ σκάνδαλα· ἄπαγε· οὐ δὲ ἐπειδὴ προεῖπεν, διὰ τοῦτο γίνεται, ἀλλ᾿ ἐπειδὴ ἔμελλε πάντως ἔσεσθαι, διὰ τοῦτο προεῖπεν, ὡς προγινώσκων πάντα. Catenae Graecorum Patrum in Novum Testamentum, ed. J.A. Cramer, S.T.R., Oxoniae, Typographeo Academico, 1840, t. 1, 144.30
 
