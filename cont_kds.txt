@@ -5,3 +5,4 @@ toc.md
 03_Problems_of_Language.md
 04_Bible_as_Revelation.md
 05_Miracles.md
+06_Signs.md
