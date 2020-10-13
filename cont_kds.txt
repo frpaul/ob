@@ -6,3 +6,5 @@ toc.md
 04_Bible_as_Revelation.md
 05_Miracles.md
 06_Signs.md
+07_Teleology.md
+08_Moral_arg.md
