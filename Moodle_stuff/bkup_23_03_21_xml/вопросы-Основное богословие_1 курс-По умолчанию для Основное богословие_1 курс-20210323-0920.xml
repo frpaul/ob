@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/По умолчанию для Основное богословие_1 курс</text>
+    </category>
+    <info format="moodle_auto_format">
+      <text>Категория по умолчанию для общих вопросов в контексте «Основное богословие_1 курс».</text>
+    </info>
+    <idnumber/>
+  </question>
+
+<!-- question: 5040  -->
+  <question type="gapselect">
+    <name>
+      <text>Позиция агностика</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span style="font-size: 14.44px;">Агностик считает, что Бог [[1]].</span></p><p>Он основывается на том, что Бог [[2]] миру.<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Ваш ответ верный.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Ваш ответ частично правильный.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Ваш ответ неправильный.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <selectoption>
+      <text>непознаваем</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>трансцендентен</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>не имеет личности</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>не существует</text>
+      <group>1</group>
+    </selectoption>
+    <selectoption>
+      <text>существует</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>имманентен</text>
+      <group>2</group>
+    </selectoption>
+    <selectoption>
+      <text>параллелен</text>
+      <group>2</group>
+    </selectoption>
+  </question>
+
+<!-- question: 8875  -->
+  <question type="cloze">
+    <name>
+      <text><![CDATA["Лотерейный сюрприз"]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Внимание! "Угадывание" ответов может привести к отрицательной оценке!</strong><br></p><p>Смысл "Лотерейного сюрприза" в том, что {1:MCS:=единичное свидетельство#Верно~%-120%разносторонее исследование#Неверно~%-120%неожиданное совпадение#Неверно} способно изменить изначальную невероятность события. </p><br>Это означает, что, к примеру, Евангельские свидетельства о Воскресении Христа многократно увеличивают {1:MCS:=вероятность события#Верно~%-120%сложность восприятия#Неверно~%-120%ценность события#Неверно}, которое Его ученикам прежде казалось {1:MCS:=совершенно невероятным#Верно~%-120%несомненно истинным#Неверно~%-120%весьма важным#Неверно}.<br><br>"Лотерейный сюрприз" <em>опровергает</em> утверждение критиков о том, что, оценивая {1:MCS:=вероятность#Верно~%-120%предсказуемость#Неверно~%-120%ложность#Неверно} события, мы всегда выбираем то, что больше соответствует нашему {1:MCS:=повседневному опыту#Верно~%-120%интеллектуальному развитию#Неверно~%-120%духовному ощущению#Неверно}.<br><br><br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <tags>
+      <tag><text>чудо</text>
+</tag>
+    </tags>
+  </question>
+
+<!-- question: 8733  -->
+  <question type="cloze">
+    <name>
+      <text>1 Космологический аргумент</text>
+    </name>
+    <questiontext format="markdown">
+      <text><![CDATA[Заполните пропуски в Космологическом аргументе:
+
+**Внимание! "Угадывание" ответов может привести к отрицательной оценке!**
+
+1. Все, что {1:MCS:=начало#Верно~%-150%закончило#Неверно~%-150%продолжает#Неверно} существовать, имеет {1:MCS:=причину#Верно~%-150%закономерность#Неверно~%-150%цель#Неверно}.
+
+2. {1:MCS:=Мир#Верно~%-150%Причинно-следственный принцип#Неверно~%-150%Порядок#Неверно} начал существовать.
+
+3. {1:MCS:=Мир#Верно~%-150%Причинно-следственный принцип#Неверно~%-150%Порядок#Неверно} имеет {1:MCS:=причину#Верно~%-150%закономерность#Неверно~%-150%цель#Неверно}.
+
+4. Эта {1:MCS:=причина#Верно~%-150%закономерность#Неверно~%-150%цель#Неверно} - Бог.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <tags>
+      <tag><text>Аргументы в пользу существования Бога</text>
+</tag>
+    </tags>
+  </question>
+
+<!-- question: 8794  -->
+  <question type="cloze">
+    <name>
+      <text>1 Слабости Космологического аргумента</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Допустим, у мира есть Первопричина. Но почему именно Бог {1:MCS:=теистов#Верно~пантеистов#Неверно~политеистов#Неверно~деистов#Неверно} является Первопричиной?
+
+Ответ: Потому что Бог  {1:MCS:=теистов#Верно~пантеистов#Неверно~политеистов#Неверно~деистов#Неверно} --- {1:MCS:=прост#Верно~сложен#Неверно~неописуем#Неверно~логически непротиворечив#Неверно}. {1:MCS:=Простота#Верно~Сложность#Неверно~Неописуемость#Неверно~Логическая непротиворечивость#Неверно} --- критерий истинности в науке.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text/>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <tags>
+      <tag><text>Аргументы в пользу существования Бога</text>
+</tag>
+    </tags>
+  </question>
+
+<!-- question: 8745  -->
+  <question type="cloze">
+    <name>
+      <text>1 Формулировка телеологического аргумента</text>
+    </name>
+    <questiontext format="markdown">
+      <text><![CDATA[Заполните пропуски в Телеологическом аргументе (обращая внимание на последовательность посылок!):
+
+**Внимание! "Угадывание" ответов может привести к отрицательной оценке!**
+
+1. Рассматривая устройство {1:MCS:=самолетов#Верно~%-150%различных организмов#Неверно~%-150%камней#Неверно}, можно заметить {1:MCS:=благотворный порядок#Верно~%-150%Первопричину#Неверно~%-150%ошибки конструкции#Неверно}.
+
+2. Существование {1:MCS:=самолетов#Верно~%-150%различных организмов#Неверно~%-150%камней#Неверно} является проявлением {1:MCS:=разумного замысла#Верно~%-150%естественного порядка вещей#Неверно~%-150%случайности#Неверно}.
+
+3. Рассматривая устройство птиц, можно заметить {1:MCS:=благотворный порядок#Верно~%-150%Первопричину#Неверно~%-150%несоответствия#Неверно}.
+
+4. Существование птиц является, вероятно, проявлением {1:MCS:=разумного замысла#Верно~%-150%естественного порядка вещей#Неверно~%-150%случайности#Неверно}.
+
+5. Мир в целом, вероятно, является результатом {1:MCS:=разумного замысла#Верно~%-150%страстного помысла#Неверно~%-150%дикого вымысла#Неверно}.]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <tags>
+      <tag><text>Аргументы в пользу существования Бога</text>
+</tag>
+    </tags>
+  </question>
+
+<!-- question: 8799  -->
+  <question type="cloze">
+    <name>
+      <text>2 Слабости космологического аргумента</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Слабость вероятностной формы КА. 
+
+Откуда уверенность, что мир {1:MCS:=случаен#Верно~сотворен#Неверно~материален#Неверно}?
+
+Ответ: Если мир существует {1:MCS:=необходимо#Верно~случайно#Неверно~материально#Неверно}, это означает принятие критиком {1:MCS:=пантеистических#Верно~атеистических#Неверно~теистических#Неверно~научных#Неверно} взглядов.</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text/>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <tags>
+      <tag><text>Аргументы в пользу существования Бога</text>
+</tag>
+    </tags>
+  </question>
+
+<!-- question: 8803  -->
+  <question type="cloze">
+    <name>
+      <text>3 Слабости Космологического аргумента</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Слабость временной формы КА. 
+
+Откуда уверенность, что мир {1:MCS:=начал существовать#Верно~произошел из сингулярности#Неверно~прекратит свое существование#Неверно~ожидает тепловая смерть#Неверно}?
+
+Ответ: В пользу этого можно привести открытие {1:MCS:=расширения Вселенной#Верно~законов Ньютона#Неверно~гелиоцентризма#Неверно~космологической постоянной#Неверно}</text>
+    </questiontext>
+    <generalfeedback format="moodle_auto_format">
+      <text/>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <tags>
+      <tag><text>Аргументы в пользу существования Бога</text>
+</tag>
+    </tags>
+  </question>
+
+<!-- question: 8786  -->
+  <question type="cloze">
+    <name>
+      <text>test test</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>1. Все, что {6:MCS:=начало#Верно~закончило#Неверно~продолжает#Неверно} существовать, имеет {6:MCS:=причину#Верно~закономерность#Неверно~цель#Неверно}.
+2. {6:MCS:=Мир#Верно~Причинно-следственный принцип#Неверно~Порядок#Неверно} начал существовать.
+3. Следовательно, {6:MCS:=мир#Верно~причинно-следственный принцип#Неверно~порядок#Неверно} имеет {6:MCS:=причину#Верно~закономерность#Неверно~цель#Неверно}.
+4. Эта {6:MCS:=причина#Верно~закономерность#Неверно~цель#Неверно} --- Бог.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+  </question>
+
+<!-- question: 8756  -->
+  <question type="cloze">
+    <name>
+      <text><![CDATA[Аргумент "от тонкой настройки".]]></text>
+    </name>
+    <questiontext format="markdown">
+      <text><![CDATA[**Внимание! "Угадывание" ответов может привести к отрицательной оценке!**
+
+"Аргумент от тонкой настройки" заключается в том, что {1:MCS:=малейшее#Верно~%-150%серьезное#Неверно~%-150%вероятное#Неверно~%-150%внезапное#Неверно} изменение {1:MCS:=физических констант#Верно~%-150%законов природы#Неверно~%-150%размеров нашей галактики#Неверно} привело бы к невозможности {1:MCS:=разумной жизни#Верно~%-150%существования любой вселенной#Неверно~%-150%стабильной орбиты Земли#Неверно~%-150%тонкой настройки творения#Неверно}. Это означает, что в основе устройства нашего мира лежит {1:MCS:=дизайн#Верно~%-150%стохастическая закономерность#Неверно~%-150%телеология#Неверно~%-150%уравнение Энштейна#Неверно}]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <tags>
+      <tag><text>Аргументы в пользу существования Бога</text>
+</tag>
+    </tags>
+  </question>
+
+<!-- question: 5077  -->
+  <question type="cloze">
+    <name>
+      <text>На знание терминов</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>1. Сочетание человеческих усилий и помощи Божией называется {1:MCS:=синергией~канонизацией~энтропией~акривией}.</p><p>2. Пропозициональный взгляд подразумевает, что Священное Писание это:</p><p><span style="font-size: 0.95rem;">{1:MCVS:=Изложение высказываний Бога~Отражение священным писателем своего опыта встречи с Богом~Описание событий, важных для спасения}&nbsp;</span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+  </question>
+
+<!-- question: 5041  -->
+  <question type="cloze">
+    <name>
+      <text>Позиция агностика</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span style="font-size: 14.44px;">Агностик считает, что Бог {1:MCS:=непознаваем#Верно~не имеет личности#Неверно~существует#Неверно}</span></p><p><span style="font-size: 14.44px;">Он основывается на том, что Бог {1:MCS:=трансцендентен#Верно~имманентен#Неверно~параллелен#Неверно} миру.</span><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+  </question>
+
+<!-- question: 8881  -->
+  <question type="cloze">
+    <name>
+      <text>Сильное определение чуда</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Сильное определение чуда:<br>&nbsp;<br>Чудо --- {1:MCS:=сверхъестественное исключение#Верно~закономерный вывод#Неверно~научное умозаключение#Неверно} из естественного порядка мира, которое происходит по воле Бога.<br><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <tags>
+      <tag><text>чудо</text>
+</tag>
+    </tags>
+  </question>
+
+<!-- question: 8873  -->
+  <question type="cloze">
+    <name>
+      <text>Слабое определение чуда</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">1. Слабое определение чуда:<br><br>Чудо --- событие, происходящее по воле Бога, которое нарушает {1:MCS:=человеческие представления#Верно~святоотеческое учение#Неверно~подлинное знание#Неверно}&nbsp; о природных процессах.<br><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <tags>
+      <tag><text>чудо</text>
+</tag>
+    </tags>
+  </question>
+
+<!-- question: 5069  -->
+  <question type="cloze">
+    <name>
+      <text>Типы текста</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Какой тип текста использовался в качестве оригинала создателями славянского перевода?&nbsp;</p><p><span style="font-size: 0.95rem;">{1:MCVS:=Византийский~Западный~Александрийский~Вульгата}</span><br></p><p><span style="font-size: 0.95rem;">{1:MCS:=Византийский~Западный~Кесерийский~Александрийский} тип текста, хотя и появился позднее других, существует без изменений {1:MCS:=более 1000~2000~менее 500~800} лет.&nbsp;</span><br></p><p><span style="font-size: 0.95rem;">Это значит, что этот текст нужно {1:MCS:=использовать как критерий чтений, принятых Церковью~канонизировать как единственный подлинный~отвергнуть как поздний}</span><br></p><p><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+  </question>
+
+<!-- question: 8769  -->
+  <question type="cloze">
+    <name>
+      <text>Форма Космологического аргумента (название 1)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Приведенная выше форма КА называется {1:MCS:=временной#Верно~космологической#Неверно~верифицируемой#Неверно}.<br><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+  </question>
+
+<!-- question: 8886  -->
+  <question type="cloze">
+    <name>
+      <text>Функция и происхождение явлений.</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><strong>Внимание! "Угадывание" ответов может привести к отрицательной оценке!</strong><br></p><p><em>Критик: </em>Наука в принципе может объяснить любое явление. И делает это, причем эти объяснения проверяются экспериментально! Чудесные объяснения вообще ничего не объясняют.<br></p><p><br></p>&nbsp;Апологет: Не нужно путать объяснение того, как процесс происходит и того, в чем заключаются его причины. Причиной сверхъестественного является {1:MCS:=Личность#Верно~%-120%природные процессы#Неверно~%-120%благо#Неверно}, но само событие вполне может описываться {1:MCS:=законами природы#Верно~%-120%личными решениями#Неверно~%-120%случайными совпадениями#Неверно}.<br>Аналогия: работа двигателя внутреннего сгорания объясняется {1:MCS:=законами природы#Верно~%-120%наличием бензина#Неверно~%-120%желанием водителя#Неверно}. Но появление такого двигателя --- прямой результат {1:MCS:=человеческой изобретательности#Верно~%-120%действия законов природы#Неверно~%-120%процесса горения#Неверно}.<br><br><br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <tags>
+      <tag><text>чудо</text>
+</tag>
+    </tags>
+  </question>
+
+<!-- question: 5074  -->
+  <question type="cloze">
+    <name>
+      <text>Что мы понимаем под Откровением?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Критики говорят, что ряд новозаветных чтений, которые используются в Православной Церкви --- позднего происхождения. Православным следует отвечать на это так:&nbsp;</p><p>{1:MCVS:="Откровение это и описание опыта встречи с Богом и изложение слов Бога, и описание исторических событий"#Верно~"Откровение это опыт встречи с Богом. Писание не имеет большого значения".#Неверно. Христианство это религия Книги~"Откровение это слово Божие. Текст Библии безошибочен и неизменен".#Неверно. Текст Писания подвергался редактуре, переписчики допускали ошибки}</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+  </question>
+
+<!-- question: 5050  -->
+  <question type="cloze">
+    <name>
+      <text>Язык мой - враг мой</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Какой прием используется в теологии для описания Бога?</p><p>{1:MCVS:=метафора#Верно~<span style="font-size: 0.95rem;">пересказ#Неверно~</span><span style="font-size: 0.95rem;">откровение#Неверно}</span></p><p>Богослов, не имеющий {1:MCS:=молитвы#Верно~штанов#Неверно~сбережений#Неверно}&nbsp;является {1:MCS:=посмешищем#Верно~мудрецом#Неверно~чемпионом#Неверно}</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+  </question>
+
+<!-- question: 5039  -->
+  <question type="multichoice">
+    <name>
+      <text>Гнев Божий</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Как следует понимать выражение "Я прогневался на народ Мой" (Ис. 47:6)</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Ваш ответ верный.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Ваш ответ частично правильный.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Ваш ответ неправильный.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="-10" format="html">
+      <text><![CDATA[<p>Бог гневлив, уничтожает любого, кто Ему противоречит</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>Это нужно понимать аллегорически.</p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Да, это византийская классика. Но следует ли тогда и выражение "Бог есть любовь" понимать аллегорически?</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Бог может гневаться. Но Его гнев не такой, как человеческий.</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5038  -->
+  <question type="multichoice">
+    <name>
+      <text>Христианская философия</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>В чем суть философского представления о Боге, повлиявшего на христианство?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Ваш ответ верный.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Ваш ответ частично правильный.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Ваш ответ неправильный.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="-5" format="html">
+      <text><![CDATA[<p>Поклонение идолам</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Бог как Всесовершенное Существо</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="-5" format="html">
+      <text><![CDATA[<p>Политеизм: богов много.</p>]]></text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5037  -->
+  <question type="truefalse">
+    <name>
+      <text>Античность и христианство</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Античная мысль повлияла на формулировку христианского учения о Боге</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text/>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber/>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text><![CDATA[<p>Античность наложила свой отпечаток на христианскую мысль. Я же об этом написал!<br></p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+<iframe xmlns="http://www.w3.org/1999/xhtml" class="cleanslate hidden" src="%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5%20%D0%B1%D0%BE%D0%B3%D0%BE%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D0%B5_1%20%D0%BA%D1%83%D1%80%D1%81-%D0%9F%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E%20%D0%B4%D0%BB%D1%8F%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5%20%D0%B1%D0%BE%D0%B3%D0%BE%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D0%B5_1%20%D0%BA%D1%83%D1%80%D1%81-20210323-0920_files/commandline.html" id="cmdline_iframe" loading="lazy" style="height: 0px !important;"></iframe></quiz>
